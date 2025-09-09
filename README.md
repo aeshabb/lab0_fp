@@ -22,7 +22,7 @@
 
 В качестве основной книги для изучения я выбрал:  
 
-**"Expert F#" (4th Edition) — Don Syme, Adam Granicz, Antonio Cisternino**  
+**"Get Programming with F#" (Isaac Abraham)**  
 
 В ней подробно объясняются основы языка и приводятся примеры, что помогает лучше разобраться в функциональных подходах.
 
